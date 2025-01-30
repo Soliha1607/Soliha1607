@@ -17,6 +17,7 @@
 <!-- ./STATS  -->
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soliha1607&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Soliha1607" /></div>
 
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hjZmNiZzZ3YjJ5ZDEzNjI1c2xkYTQ4NHV3MzdyMDl4bGdlYmZneSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
 
 
 
